@@ -1,0 +1,27 @@
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.form__button {
+  width: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+
+.form {
+display: flex;
+flex-direction: column;
+justify-content: center;
+background-color: rgb(11, 131, 243);
+position: relative;
+}
+.link {
+  width: 500px;
+  height: 300px;
+  text-align: center;
+}
